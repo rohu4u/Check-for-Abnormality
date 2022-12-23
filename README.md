@@ -1,6 +1,6 @@
 # Check-for-Abnormality
 
-#About the data
+About the data:
 
 There are 6 variables and 370k records. Data is recorded once every 5 minutes over a duration of 3 years.
 1.	Cyclone_Inlet_Gas_Temp – Temperature of Hot gas entering the cyclone.
